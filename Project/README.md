@@ -7,8 +7,8 @@ in streamlit application
 
 [CLAAT Document](https://codelabs-preview.appspot.com/?file_id=1YdViHtjV3o6VAjSZUJ3grV3o57FPLG3aacJSep8236Q#0)
 
-#Streamlit
-![](https://ibb.co/Bfxt5n4)
+# Streamlit
+![](https://i.ibb.co/wdXRFcJ/st.png)
 
 # Installation Steps
 
